@@ -43,7 +43,7 @@ export class UserService {
               return isMatched;
             }
 
-            else { //TODO: I think it's a bull
+            else { //TODO: rethink this
               return isMatched;
             }
         }
